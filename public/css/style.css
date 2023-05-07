@@ -277,7 +277,7 @@ section .heading:hover::after {
 }
 
 #about {
-  background-color: var(--hover-bg);
+
 }
 
 
@@ -331,6 +331,10 @@ section .heading:hover::after {
   font-size: 2rem;
   font-weight: bold;
   cursor: pointer;
+}
+
+#course {
+  background-color: var(--hover-bg);
 }
 
 #course .course-container {
